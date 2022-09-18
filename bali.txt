@@ -1,0 +1,3 @@
+Hari 1: Naik pesawat dari kota a ke bali
+Hari 2: Keliling kota denpasar
+Hari 3: Pulang
